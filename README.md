@@ -1,5 +1,5 @@
 # WP-React-Starter-Plugin
-This is a starter plugin to connect react with WordPress and it's core data layer.
+This is a starter plugin to connect WordPress and it's core data layer with react.
 
 1. Clone the repository or download as zip(unzip, paste it into plugins folder)
 2. Go to main plugin directory
